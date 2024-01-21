@@ -11,7 +11,7 @@ import (
 
 // https://github.com/TA2k/ioBroker.polestar
 
-const ApiURI = "https://pc-api.polestar.com/eu-north-1/my-star"
+const ApiURI = "https://pc-api.polestar.com/eu-north-1/mystar-v2"
 
 type API struct {
 	*request.Helper
